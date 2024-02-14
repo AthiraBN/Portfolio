@@ -1,0 +1,16 @@
+.sideMenu {
+    padding: 0px !important;
+}
+.sideMenu li a {
+    text-decoration: none; 
+    color: rgba(0, 0, 0, 0.54)
+}
+.sideMenu li a.active div {
+    background: #6495ED !important;
+}
+.sideMenu li a.active {
+    color: white;
+  }
+  .sideMenu li a.active svg {
+    fill: white;
+  }

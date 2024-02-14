@@ -1,0 +1,528 @@
+{
+    "it_job_designations": [
+      {
+        "id": 1,
+        "designation": "Back-End Developer",
+        "technical_skills": [
+          "Java",
+          "Python",
+          "Ruby",
+          "PHP",
+          "Node.js",
+          "Django",
+          "Ruby on Rails",
+          "MySQL",
+          "MongoDB",
+          "PostgreSQL",
+          "Git",
+          "Docker"
+        ]
+      },
+      {
+        "id": 2,
+        "designation": "Business Analyst (IT)",
+        "technical_skills": [
+          "Excel",
+          "Tableau",
+          "Power BI",
+          "Use Case Diagrams",
+          "User Stories",
+          "BPMN",
+          "UML"
+        ]
+      },
+      {
+        "id": 3,
+        "designation": "Chief Information Officer (CIO)",
+        "technical_skills": [
+          "IT Strategy",
+          "Digital Transformation",
+          "Team Management",
+          "Decision Making",
+          "Information Security",
+          "Risk Management"
+        ]
+      },
+      {
+        "id": 4,
+        "designation": "Chief Technology Officer (CTO)",
+        "technical_skills": [
+          "Innovation",
+          "Technology Roadmap",
+          "Technical Leadership",
+          "Technology Governance",
+          "Enterprise Architecture",
+          "Solution Architecture"
+        ]
+      },
+      {
+        "id": 5,
+        "designation": "Cloud Architect",
+        "technical_skills": [
+          "AWS",
+          "Azure",
+          "Google Cloud",
+          "Kubernetes",
+          "Docker",
+          "VPC",
+          "Load Balancers"
+        ]
+      },
+      {
+        "id": 6,
+        "designation": "Cybersecurity Analyst",
+        "technical_skills": [
+          "Firewalls",
+          "Intrusion Detection Systems",
+          "NIST Cybersecurity Framework",
+          "ISO 27001",
+          "Forensics",
+          "Security Incident Handling"
+        ]
+      },
+      {
+        "id": 7,
+        "designation": "Data Analyst",
+        "technical_skills": [
+          "SQL",
+          "Python",
+          "Excel",
+          "Tableau",
+          "Power BI",
+          "Matplotlib",
+          "Pandas",
+          "OpenRefine"
+        ]
+      },
+      {
+        "id": 8,
+        "designation": "Data Scientist",
+        "technical_skills": [
+          "Scikit-Learn",
+          "TensorFlow",
+          "PyTorch",
+          "Hadoop",
+          "Spark",
+          "Pandas",
+          "NumPy",
+          "Seaborn",
+          "Plotly"
+        ]
+      },
+      {
+        "id": 9,
+        "designation": "Database Administrator",
+        "technical_skills": [
+          "MySQL",
+          "Oracle",
+          "SQL Server",
+          "Normalization",
+          "Indexing",
+          "Query Optimization",
+          "Indexing"
+        ]
+      },
+      {
+        "id": 10,
+        "designation": "DevOps Engineer",
+        "technical_skills": [
+          "Ansible",
+          "Jenkins",
+          "Docker",
+          "Kubernetes",
+          "Git",
+          "GitHub"
+        ]
+      },
+      {
+        "id": 11,
+        "designation": "Enterprise Architect",
+        "technical_skills": [
+          "TOGAF",
+          "Zachman",
+          "UML",
+          "Design Patterns",
+          "IT Governance",
+          "Business Capability Mapping"
+        ]
+      },
+      {
+        "id": 12,
+        "designation": "Front-End Developer",
+        "technical_skills": [
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "React",
+          "Angular",
+          "Vue.js",
+          "Adobe XD",
+          "Figma"
+        ]
+      },
+      {
+        "id": 13,
+        "designation": "Full-Stack Developer",
+        "technical_skills": [
+          "JavaScript",
+          "Node.js",
+          "Python",
+          "React",
+          "Angular",
+          "Vue.js",
+          "Express",
+          "Django",
+          "Flask",
+          "MongoDB",
+          "PostgreSQL"
+        ]
+      },
+      {
+        "id": 14,
+        "designation": "Help Desk Technician",
+        "technical_skills": [
+          "Hardware",
+          "Software",
+          "Network",
+          "customer_support",
+          "Communication",
+          "Problem Solving",
+          "ticketing_systems",
+          "ServiceNow",
+          "Zendesk"
+        ]
+      },
+      {
+        "id": 15,
+        "designation": "IT Auditor",
+        "technical_skills": [
+          "COBIT",
+          "ISO 27001",
+          "Audit Planning",
+          "Control Testing",
+          "Audit Reports",
+          "Recommendations"
+        ]
+      },
+      {
+        "id": 16,
+        "designation": "IT Business Analyst",
+        "technical_skills": [
+          "Elicitation",
+          "Documentation",
+          "As-Is/To-Be Analysis",
+          "Workflow Diagrams",
+          "Stakeholder Engagement",
+          "User Stories"
+        ]
+      },
+      {
+        "id": 17,
+        "designation": "IT Compliance Analyst",
+        "technical_skills": [
+          "HIPAA",
+          "PCI DSS",
+          "Risk Assessment",
+          "Mitigation Planning",
+          "Evidence Gathering",
+          "Control Testing"
+        ]
+      },
+      {
+        "id": 18,
+        "designation": "IT Consultant",
+        "technical_skills": [
+          "IT Strategy",
+          "Digital Transformation",
+          "Vendor Selection",
+          "Feasibility Analysis",
+          "Project Management",
+          "Change Management"
+        ]
+      },
+      {
+        "id": 19,
+        "designation": "IT Manager",
+        "technical_skills": [
+          "Leadership",
+          "Performance Management",
+          "Financial Planning",
+          "Cost Control",
+          "Prioritization",
+          "Resource Allocation"
+        ]
+      },
+      {
+        "id": 20,
+        "designation": "IT Operations Manager",
+        "technical_skills": [
+          "Servers",
+          "Data Centers",
+          "Networks",
+          "Monitoring",
+          "Resolution",
+          "Team Building",
+          "Staff Development"
+        ]
+      },
+      {
+        "id": 21,
+        "designation": "IT Procurement Specialist",
+        "technical_skills": [
+          "Contract Negotiation",
+          "SLA Management",
+          "RFI/RFP",
+          "Vendor Selection",
+          "Total Cost of Ownership (TCO)",
+          "ROI Analysis"
+        ]
+      },
+      {
+        "id": 22,
+        "designation": "IT Project Manager",
+        "technical_skills": [
+          "Scope Management",
+          "Schedule Management",
+          "Stakeholder Engagement",
+          "Status Reporting",
+          "Risk Assessment",
+          "Mitigation Planning"
+        ]
+      },
+      {
+        "id": 23,
+        "designation": "IT Sales Representative",
+        "technical_skills": [
+          "IT Solutions",
+          "Technical Features",
+          "Client Engagement",
+          "Needs Assessment",
+          "Sales Presentations",
+          "Proposal Preparation"
+        ]
+      },
+      {
+        "id": 24,
+        "designation": "IT Support Specialist",
+        "technical_skills": [
+          "Hardware",
+          "Software",
+          "Network",
+          "Ticketing Systems",
+          "SLA Adherence",
+          "Communication",
+          "Problem Solving"
+        ]
+      },
+      {
+        "id": 25,
+        "designation": "IT Technician",
+        "technical_skills": [
+          "Installation",
+          "Maintenance",
+          "Installation",
+          "Configuration",
+          "Diagnostic Skills",
+          "Problem Resolution"
+        ]
+      },
+      {
+        "id": 26,
+        "designation": "IT Trainer",
+        "technical_skills": [
+          "Training Plans",
+          "Instructional Design",
+          "Learning Management Systems (LMS)",
+          "Virtual Classrooms",
+          "Presentation Skills",
+          "Content Creation"
+        ]
+      },
+      {
+        "id": 27,
+        "designation": "Mobile App Developer",
+        "technical_skills": [
+          "iOS Development",
+          "Android Development",
+          "Java",
+          "Swift",
+          "Kotlin",
+          "React Native",
+          "Flutter"
+        ]
+      },
+      {
+        "id": 28,
+        "designation": "Network Administrator",
+        "technical_skills": [
+          "TCP/IP",
+          "LAN/WAN",
+          "Routers",
+          "Switches",
+          "Firewalls",
+          "VPN",
+          "Network Monitoring",
+          "CCNA",
+          "CCNP",
+          "CompTIA Network+"
+        ]
+      },
+      {
+        "id": 29,
+        "designation": "Network Engineer",
+        "technical_skills": [
+          "LAN/WAN Design",
+          "Routing Protocols",
+          "Firewalls",
+          "Intrusion Detection Systems",
+          "CCIE",
+          "Juniper JNCIE"
+        ]
+      },
+      {
+        "id": 30,
+        "designation": "Network Security Engineer",
+        "technical_skills": [
+          "Firewalls",
+          "Intrusion Detection Systems",
+          "NIST Cybersecurity Framework",
+          "ISO 27001",
+          "Forensics",
+          "Security Incident Handling"
+        ]
+      },
+      {
+        "id": 31,
+        "designation": "Quality Assurance (QA) Analyst/Engineer",
+        "technical_skills": [
+          "Selenium",
+          "Jenkins",
+          "TestNG",
+          "JIRA",
+          "TestRail",
+          "Test Cases",
+          "Defect Tracking"
+        ]
+      },
+      {
+        "id": 32,
+        "designation": "Software Engineer",
+        "technical_skills": [
+          "Java",
+          "C++",
+          "Python",
+          "JavaScript",
+          "Spring Boot",
+          "Angular",
+          "React",
+          "Git",
+          "SVN"
+        ]
+      },
+      {
+        "id": 33,
+        "designation": "Software Tester",
+        "technical_skills": [
+          "Selenium",
+          "Cypress",
+          "TestNG",
+          "JIRA",
+          "Bugzilla",
+          "Test Cases",
+          "Regression Testing"
+        ]
+      },
+      {
+        "id": 34,
+        "designation": "Solutions Architect",
+        "technical_skills": [
+          "UML",
+          "Design Patterns",
+          "Architecture Frameworks",
+          "AWS",
+          "Azure",
+          "Google Cloud",
+          "APIs",
+          "Microservices"
+        ]
+      },
+      {
+        "id": 35,
+        "designation": "Systems Administrator",
+        "technical_skills": [
+          "Windows Server",
+          "Linux",
+          "TCP/IP",
+          "DNS",
+          "DHCP",
+          "Server Issues",
+          "Network Problems"
+        ]
+      },
+      {
+        "id": 36,
+        "designation": "Systems Analyst",
+        "technical_skills": [
+          "Use Case Diagrams",
+          "Data Flow Diagrams",
+          "Vendor Evaluation",
+          "RFPs",
+          "Stakeholder Engagement",
+          "Documentation"
+        ]
+      },
+      {
+        "id": 37,
+        "designation": "Systems Architect",
+        "technical_skills": [
+          "UML",
+          "Design Patterns",
+          "Architecture Frameworks",
+          "APIs",
+          "Microservices",
+          "Solution Roadmap",
+          "Technical Leadership"
+        ]
+      },
+      {
+        "id": 38,
+        "designation": "Technical Writer (IT)",
+        "technical_skills": [
+          "Microsoft Word",
+          "Markdown",
+          "Git",
+          "GitHub",
+          "Software Documentation",
+          "User Guides"
+        ]
+      },
+      {
+        "id": 39,
+        "designation": "UI/UX Designer",
+        "technical_skills": [
+          "Adobe XD",
+          "Figma",
+          "Sketch",
+          "Wireframing",
+          "Prototyping",
+          "User Testing",
+          "Feedback Analysis"
+        ]
+      },
+      {
+        "id": 40,
+        "designation": "Web Developer",
+        "technical_skills": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "Angular",
+          "Vue.js",
+          "Node.js",
+          "Express",
+          "Ruby on Rails"
+        ]
+      }
+    ]
+  }
