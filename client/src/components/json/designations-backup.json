@@ -1,0 +1,368 @@
+{
+    "it_job_designations": [
+      {
+        "id": 1,
+        "designation": "Back-End Developer",
+        "technical_skills": {
+          "programming_languages": ["Java", "Python", "Ruby", "PHP"],
+          "frameworks": ["Node.js", "Django", "Ruby on Rails"],
+          "databases": ["MySQL", "MongoDB", "PostgreSQL"],
+          "tools": ["Git", "Docker"]
+        }
+      },
+      {
+        "id": 2,
+        "designation": "Business Analyst (IT)",
+        "technical_skills": {
+          "data_analysis_tools": ["Excel", "Tableau", "Power BI"],
+          "requirements_analysis": ["Use Case Diagrams", "User Stories"],
+          "business_process_modeling": ["BPMN", "UML"]
+        }
+      },
+      {
+        "id": 3,
+        "designation": "Chief Information Officer (CIO)",
+        "technical_skills": {
+          "strategic_planning": ["IT Strategy", "Digital Transformation"],
+          "leadership": ["Team Management", "Decision Making"],
+          "cybersecurity": ["Information Security", "Risk Management"]
+        }
+      },
+      {
+        "id": 4,
+        "designation": "Chief Technology Officer (CTO)",
+        "technical_skills": {
+          "technology_strategy": ["Innovation", "Technology Roadmap"],
+          "leadership": ["Technical Leadership", "Technology Governance"],
+          "architecture": ["Enterprise Architecture", "Solution Architecture"]
+        }
+      },
+      {
+        "id": 5,
+        "designation": "Cloud Architect",
+        "technical_skills": {
+          "cloud_platforms": ["AWS", "Azure", "Google Cloud"],
+          "containerization": ["Kubernetes", "Docker"],
+          "networking": ["VPC", "Load Balancers"]
+        }
+      },
+      {
+        "id": 6,
+        "designation": "Cybersecurity Analyst",
+        "technical_skills": {
+          "network_security": ["Firewalls", "Intrusion Detection Systems"],
+          "security_frameworks": ["NIST Cybersecurity Framework", "ISO 27001"],
+          "incident_response": ["Forensics", "Security Incident Handling"]
+        }
+      },
+      {
+        "id": 7,
+        "designation": "Data Analyst",
+        "technical_skills": {
+          "data_analysis_tools": ["SQL", "Python", "Excel"],
+          "data_visualization": ["Tableau", "Power BI", "Matplotlib"],
+          "data_cleaning": ["Pandas", "OpenRefine"]
+        }
+      },
+      {
+        "id": 8,
+        "designation": "Data Scientist",
+        "technical_skills": {
+          "machine_learning": ["Scikit-Learn", "TensorFlow", "PyTorch"],
+          "big_data": ["Hadoop", "Spark"],
+          "data_wrangling": ["Pandas", "NumPy"],
+          "data_visualization": ["Seaborn", "Plotly"]
+        }
+      },
+      {
+        "id": 9,
+        "designation": "Database Administrator",
+        "technical_skills": {
+          "database_management_systems": ["MySQL", "Oracle", "SQL Server"],
+          "database_design": ["Normalization", "Indexing"],
+          "performance_tuning": ["Query Optimization", "Indexing"]
+        }
+      },
+      {
+        "id": 10,
+        "designation": "DevOps Engineer",
+        "technical_skills": {
+          "automation_tools": ["Ansible", "Jenkins"],
+          "containerization": ["Docker", "Kubernetes"],
+          "version_control": ["Git", "GitHub"]
+        }
+      },
+      {
+        "id": 11,
+        "designation": "Enterprise Architect",
+        "technical_skills": {
+          "architecture_frameworks": ["TOGAF", "Zachman"],
+          "solution_design": ["UML", "Design Patterns"],
+          "business_strategy_alignment": ["IT Governance", "Business Capability Mapping"]
+        }
+      },
+      {
+        "id": 12,
+        "designation": "Front-End Developer",
+        "technical_skills": {
+          "programming_languages": ["JavaScript", "HTML", "CSS"],
+          "frameworks": ["React", "Angular", "Vue.js"],
+          "design_tools": ["Adobe XD", "Figma"]
+        }
+      },
+      {
+        "id": 13,
+        "designation": "Full-Stack Developer",
+        "technical_skills": {
+          "programming_languages": ["JavaScript", "Node.js", "Python"],
+          "front_end_frameworks": ["React", "Angular", "Vue.js"],
+          "back_end_frameworks": ["Express", "Django", "Flask"],
+          "databases": ["MongoDB", "PostgreSQL"]
+        }
+      },
+      {
+        "id": 14,
+        "designation": "Help Desk Technician",
+        "technical_skills": {
+          "troubleshooting": ["Hardware", "Software", "Network"],
+          "customer_support": ["Communication", "Problem Solving"],
+          "ticketing_systems": ["ServiceNow", "Zendesk"]
+        }
+      },
+      {
+        "id": 15,
+        "designation": "IT Auditor",
+        "technical_skills": {
+          "auditing_standards": ["COBIT", "ISO 27001"],
+          "risk_assessment": ["Audit Planning", "Control Testing"],
+          "reporting": ["Audit Reports", "Recommendations"]
+        }
+      },
+      {
+        "id": 16,
+        "designation": "IT Business Analyst",
+        "technical_skills": {
+          "requirements_gathering": ["Elicitation", "Documentation"],
+          "business_process_analysis": ["As-Is/To-Be Analysis", "Workflow Diagrams"],
+          "communication": ["Stakeholder Engagement", "User Stories"]
+        }
+      },
+      {
+        "id": 17,
+        "designation": "IT Compliance Analyst",
+        "technical_skills": {
+          "compliance_frameworks": ["HIPAA", "PCI DSS"],
+          "risk_management": ["Risk Assessment", "Mitigation Planning"],
+          "audit_support": ["Evidence Gathering", "Control Testing"]
+        }
+      },
+      {
+        "id": 18,
+        "designation": "IT Consultant",
+        "technical_skills": {
+          "strategic_planning": ["IT Strategy", "Digital Transformation"],
+          "technology_assessment": ["Vendor Selection", "Feasibility Analysis"],
+          "implementation_support": ["Project Management", "Change Management"]
+        }
+      },
+      {
+        "id": 19,
+        "designation": "IT Manager",
+        "technical_skills": {
+          "team_management": ["Leadership", "Performance Management"],
+          "budgeting": ["Financial Planning", "Cost Control"],
+          "project_portfolio_management": ["Prioritization", "Resource Allocation"]
+        }
+      },
+      {
+        "id": 20,
+        "designation": "IT Operations Manager",
+        "technical_skills": {
+          "infrastructure_management": ["Servers", "Data Centers", "Networks"],
+          "incident_response": ["Monitoring", "Resolution"],
+          "team_leadership": ["Team Building", "Staff Development"]
+        }
+      },
+      {
+        "id": 21,
+        "designation": "IT Procurement Specialist",
+        "technical_skills": {
+          "vendor_management": ["Contract Negotiation", "SLA Management"],
+          "procurement_processes": ["RFI/RFP", "Vendor Selection"],
+          "cost_analysis": ["Total Cost of Ownership (TCO)", "ROI Analysis"]
+        }
+      },
+      {
+        "id": 22,
+        "designation": "IT Project Manager",
+        "technical_skills": {
+          "project_management": ["Scope Management", "Schedule Management"],
+          "communication": ["Stakeholder Engagement", "Status Reporting"],
+          "risk_management": ["Risk Assessment", "Mitigation Planning"]
+        }
+      },
+      {
+        "id": 23,
+        "designation": "IT Sales Representative",
+        "technical_skills": {
+          "product_knowledge": ["IT Solutions", "Technical Features"],
+          "customer_relationship_management": ["Client Engagement", "Needs Assessment"],
+          "sales_strategies": ["Sales Presentations", "Proposal Preparation"]
+        }
+      },
+      {
+        "id": 24,
+        "designation": "IT Support Specialist",
+        "technical_skills": {
+          "troubleshooting": ["Hardware", "Software", "Network"],
+          "help_desk_management": ["Ticketing Systems", "SLA Adherence"],
+          "customer_support": ["Communication", "Problem Solving"]
+        }
+      },
+      {
+        "id": 25,
+        "designation": "IT Technician",
+        "technical_skills": {
+          "hardware_support": ["Installation", "Maintenance"],
+          "software_support": ["Installation", "Configuration"],
+          "troubleshooting": ["Diagnostic Skills", "Problem Resolution"]
+        }
+      },
+      {
+        "id": 26,
+        "designation": "IT Trainer",
+        "technical_skills": {
+          "training_delivery": ["Training Plans", "Instructional Design"],
+          "training_tools": ["Learning Management Systems (LMS)", "Virtual Classrooms"],
+          "communication": ["Presentation Skills", "Content Creation"]
+        }
+      },
+      {
+        "id": 27,
+        "designation": "Mobile App Developer",
+        "technical_skills": {
+          "mobile_app_development": ["iOS Development", "Android Development"],
+          "programming_languages": ["Java", "Swift", "Kotlin"],
+          "frameworks": ["React Native", "Flutter"]
+        }
+      },
+      {
+        "id": 28,
+        "designation": "Network Administrator",
+        "technical_skills": {
+          "networking": ["TCP/IP", "LAN/WAN", "Routers", "Switches"],
+          "security": ["Firewalls", "VPN", "Network Monitoring"],
+          "certifications": ["CCNA", "CCNP", "CompTIA Network+"]
+        }
+      },
+      {
+        "id": 29,
+        "designation": "Network Engineer",
+        "technical_skills": {
+          "network_design": ["LAN/WAN Design", "Routing Protocols"],
+          "network_security": ["Firewalls", "Intrusion Detection Systems"],
+          "certifications": ["CCIE", "Juniper JNCIE"]
+        }
+      },
+      {
+        "id": 30,
+        "designation": "Network Security Engineer",
+        "technical_skills": {
+          "network_security": ["Firewalls", "Intrusion Detection Systems"],
+          "security_frameworks": ["NIST Cybersecurity Framework", "ISO 27001"],
+          "incident_response": ["Forensics", "Security Incident Handling"]
+        }
+      },
+      {
+        "id": 31,
+        "designation": "Quality Assurance (QA) Analyst/Engineer",
+        "technical_skills": {
+          "test_automation": ["Selenium", "Jenkins", "TestNG"],
+          "test_management_tools": ["JIRA", "TestRail"],
+          "manual_testing": ["Test Cases", "Defect Tracking"]
+        }
+      },
+      {
+        "id": 32,
+        "designation": "Software Engineer",
+        "technical_skills": {
+          "programming_languages": ["Java", "C++", "Python", "JavaScript"],
+          "development_frameworks": ["Spring Boot", "Angular", "React"],
+          "version_control": ["Git", "SVN"]
+        }
+      },
+      {
+        "id": 33,
+        "designation": "Software Tester",
+        "technical_skills": {
+          "test_automation": ["Selenium", "Cypress", "TestNG"],
+          "defect_tracking": ["JIRA", "Bugzilla"],
+          "manual_testing": ["Test Cases", "Regression Testing"]
+        }
+      },
+      {
+        "id": 34,
+        "designation": "Solutions Architect",
+        "technical_skills": {
+          "solution_design": ["UML", "Design Patterns", "Architecture Frameworks"],
+          "cloud_platforms": ["AWS", "Azure", "Google Cloud"],
+          "integration": ["APIs", "Microservices"]
+        }
+      },
+      {
+        "id": 35,
+        "designation": "Systems Administrator",
+        "technical_skills": {
+          "server_management": ["Windows Server", "Linux"],
+          "networking": ["TCP/IP", "DNS", "DHCP"],
+          "troubleshooting": ["Server Issues", "Network Problems"]
+        }
+      },
+      {
+        "id": 36,
+        "designation": "Systems Analyst",
+        "technical_skills": {
+          "requirements_analysis": ["Use Case Diagrams", "Data Flow Diagrams"],
+          "software_selection": ["Vendor Evaluation", "RFPs"],
+          "communication": ["Stakeholder Engagement", "Documentation"]
+        }
+      },
+      {
+        "id": 37,
+        "designation": "Systems Architect",
+        "technical_skills": {
+          "solution_design": ["UML", "Design Patterns", "Architecture Frameworks"],
+          "integration": ["APIs", "Microservices"],
+          "technology_strategy": ["Solution Roadmap", "Technical Leadership"]
+        }
+      },
+      {
+        "id": 38,
+        "designation": "Technical Writer (IT)",
+        "technical_skills": {
+          "documentation_tools": ["Microsoft Word", "Markdown"],
+          "version_control": ["Git", "GitHub"],
+          "subject_matter_expertise": ["Software Documentation", "User Guides"]
+        }
+      },
+      {
+        "id": 39,
+        "designation": "UI/UX Designer",
+        "technical_skills": {
+          "design_tools": ["Adobe XD", "Figma", "Sketch"],
+          "user_interface_design": ["Wireframing", "Prototyping"],
+          "usability_testing": ["User Testing", "Feedback Analysis"]
+        }
+      },
+      {
+        "id": 40,
+        "designation": "Web Developer",
+        "technical_skills": {
+          "programming_languages": ["HTML", "CSS", "JavaScript"],
+          "front_end_frameworks": ["React", "Angular", "Vue.js"],
+          "back_end_frameworks": ["Node.js", "Express", "Ruby on Rails"]
+        }
+      }
+    ]
+  }
+  

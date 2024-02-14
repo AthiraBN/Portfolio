@@ -1,0 +1,35 @@
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+/* For firefox */
+input[type=number]{
+    -moz-appearance: textfield;
+}
+  .loginBg {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-image: linear-gradient(to bottom right, #1976d2 , #F0F8FF)
+  }
+  .Login-Signup-Box {
+    height: auto;
+    background: rgba(255,255,255,.9);
+    text-align: center;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+    border-radius: 0px;
+    width: 550px;
+  }
+  .profPicDisplay {
+    border: 1px solid lightgray;
+    padding:5px
+  }
+  @media screen and (max-width: 570px) {
+    .Login-Signup-Box {
+        margin: 0px 5%;
+        width: 90%;
+      }
+  }
