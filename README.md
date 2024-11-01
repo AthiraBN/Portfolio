@@ -1,5 +1,5 @@
 # Portfolio
-This project focuses on e-commerce and has a product listing page with category filter.
+This project focuses on helping candidates build their portfolio and showcase it
 
 ## Installation
 Download and do npm install
